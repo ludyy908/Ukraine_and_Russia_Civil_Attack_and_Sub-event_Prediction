@@ -3,9 +3,9 @@ Based on Ukraine conflicts data, the system main goal is to find the pattern of 
 
 The programming language used for this project was Python, and the following libaries were used:
 
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Scikit-learn
-Tensorflow
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Scikit-learn
+* Tensorflow
