@@ -5,7 +5,8 @@ The programming language used for this project was Python, and the following lib
 
 * Pandas
 * Numpy
-* Seaborn
-* Matplotlib
 * Scikit-learn
 * Tensorflow
+* Keras
+* Joblib
+
